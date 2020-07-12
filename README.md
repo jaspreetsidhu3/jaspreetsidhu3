@@ -21,9 +21,9 @@ I work on **🌍 web apps, 💻 windows software and 📱 android apps** and als
 
 
 [5.1]: http://ishandeveloper.com/ishandeveloper/icons/linkedin.png (LinkedIn Icon)
-[6.1]: http://ishandeveloper.com/ishandeveloper/icons/stack-overflow.png (StackOverFlow Icon)
+
 [7.1]: http://ishandeveloper.com/ishandeveloper/icons/web.png (Web Icon)
 
 [5]: https://www.linkedin.com/in/jaspreetsidhu13/
-[6]: https://github.com/jaspreetsidhu3/
+
 [7]: https://github.com/jaspreetsidhu3/
