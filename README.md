@@ -13,9 +13,9 @@ I work on **🌍 web apps, 💻 windows software and 📱 android apps** and als
 
 🕵 Take a look at my repositories and let's get in touch!
 
-[![LINKEDIN][5.1]][5] &nbsp;
+<span>[![LINKEDIN][5.1]][5] &nbsp; [![WEBSITE][7.1]][7] &nbsp; </span>
 
-[![WEBSITE][7.1]][7] &nbsp;
+
 
 
 
