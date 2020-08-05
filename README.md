@@ -8,9 +8,14 @@ I work on **🌍 web apps, 💻 windows software and 📱 android apps** and als
 * ⛵   Always ready for open source contribution
 * 🎨   I do design in free time on [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
 
+
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jaspreetsidhu3&show_icon=true&hide_border=true" />
+<br>
+
+
 🕵 Take a look at my repositories and let's get in touch!
 
-<span>[![LINKEDIN][5.1]][5] &nbsp; [![WEBSITE][7.1]][7] &nbsp; </span>
+<span>[![LINKEDIN][5.1]][5] &nbsp; [![WEBSITE][7.1]][7] &nbsp;</span>
 
 
 
@@ -19,8 +24,11 @@ I work on **🌍 web apps, 💻 windows software and 📱 android apps** and als
 
 [5.1]: http://ishandeveloper.com/ishandeveloper/icons/linkedin.png (LinkedIn Icon)
 
+
 [7.1]: http://ishandeveloper.com/ishandeveloper/icons/web.png (Web Icon)
 
 [5]: https://www.linkedin.com/in/jaspreetsidhu13/
 
 [7]: https://github.com/jaspreetsidhu3/
+
+📭 jaspreetsidhu3may@gmail.com
