@@ -31,4 +31,4 @@ I work on **🌍 web apps, 💻 windows software and 📱 android apps** and als
 
 [7]: https://github.com/jaspreetsidhu3/
 
-📭 jaspreetsidhu3may@gmail.com
+📭 Contact me at jaspreetsidhu3may@gmail.com
