@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I work on **🌍 web apps, 💻 windows software and 📱 android apps** and also **design user experiences** 🎨    
+I work on **🌍 web apps, 💻 windows software and 📱 android apps** and also **🎨 design UI/UX**     
 
 * ✈️   Hire me for remote work & internships
 * 💼   Do read my resume here: [Google drive](https://drive.google.com/file/d/1YzHvuccEFF_KV7W0cKScEYwktkd1kE0s/view)
