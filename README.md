@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I work on **🌍 web apps, 💻 windows software and 📱 android apps** and also **🎨 design UI/UX**     
+I work on **📱 android apps, 🌍 web apps and 💻 pc softwares** and also **🎨 design UI/UX**     
 
 * ✈️   Actively looking for remote work & internships
 * ⛵   Always ready for open source contribution
