@@ -1,5 +1,5 @@
 ## Hello there 👋
-Working on Android application and Web development and love to do UI designs in free time on [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
+Working on android application and web development and love to do UI designs in free time on [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaspreetsidhu3&show_icon=true&hide_title=true&line_height=17&hide_border=true" />
 
