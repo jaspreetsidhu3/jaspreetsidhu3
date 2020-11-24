@@ -6,7 +6,6 @@ Working on android application, web development and love to do UI designs in fre
 * 💼 Actively looking for opportunity
 * ⛵ Always ready for open source contribution
 * 📚 Enthusiastic for AI, Space, Time 
-* 📭 contact me jaspreetsidhu3may@gmail.com
 * 🕵 Take a look at my repositories
 
 **Languages and Tools:**  
