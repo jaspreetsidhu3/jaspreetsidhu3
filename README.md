@@ -25,6 +25,6 @@ Working on .NET web application, android application and love to do UI designs i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<b>Take a look at my repositories and please give [feedback](jaspreetsidhu3may@gmail.com) 🕵 </b>
+<b>Take a look at my repositories and please give [feedback](mailto:someone@example.com) 🕵 </b>
 
 ![](https://komarev.com/ghpvc/?username=jaspreetsidhu3&color=blue&label=Total+Visitors)
