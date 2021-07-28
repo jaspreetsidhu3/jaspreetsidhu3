@@ -6,7 +6,6 @@ Working on .NET web application, android application and love to do UI designs i
 * 💼 Actively looking for opportunity
 * ⛵ Always ready for open source contribution
 * 📚 Enthusiastic for AI, Space, Time 
-* 🕵 Take a look at my repositories
 
 **Languages and Tools:**  
 
@@ -24,5 +23,8 @@ Working on .NET web application, android application and love to do UI designs i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+<b>Take a look at my repositories and please give [feedback](jaspreetsidhu3may@gmail.com) 🕵 </b>
 
 ![](https://komarev.com/ghpvc/?username=jaspreetsidhu3&color=blue&label=Total+Visitors)
