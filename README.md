@@ -25,6 +25,12 @@ Working on Microsoft stack, Android applications, and love to do UI designs in m
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<b>My Recent Blogs</b> 
+
+[![Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jaspreetsingh7&type=horizontal&limit=2)](https://medium.com/@jaspreetsingh7)
+
 <b>Take a look at my repositories and please give [feedback](mailto:jaspreetsidhu3may@gmail.com) 🕵 </b>
 
+
 ![](https://komarev.com/ghpvc/?username=jaspreetsidhu3&color=blue&label=Total+Visitors)
+
