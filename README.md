@@ -1,9 +1,9 @@
 ## Hello there 👋
-Working on .NET web application, android application and love to do UI designs in free time on [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
+Working on Microsoft stack, Android applications, and love to do UI designs in my free time on [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaspreetsidhu3&show_icon=true&hide_title=true&line_height=14&hide_border=true" />
 
-* 💼 Actively looking for opportunity
+* 💼 Actively looking for an opportunity
 * ⛵ Always ready for open source contribution
 * 📚 Enthusiastic for AI, Space, Time 
 
