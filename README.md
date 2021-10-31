@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaspreetsidhu3&show_icon=true&hide_title=true&line_height=13&hide_border=true" />
 
-* Working on Microsoft stack.
+* Working on Microsoft stack
 * Ready for open source contribution
 * Enthusiastic for Android development
 * Love to do UI design [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
