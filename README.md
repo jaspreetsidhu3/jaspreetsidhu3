@@ -1,14 +1,13 @@
 ## Hello there 👋
-Working on Microsoft stack, Android applications, and love to do UI designs in my free time on [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaspreetsidhu3&show_icon=true&hide_title=true&line_height=14&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaspreetsidhu3&show_icon=true&hide_title=true&line_height=13&hide_border=true" />
 
-* 💼 Actively looking for an opportunity
-* ⛵ Ready for open source contribution
-* 📚 Enthusiastic for AI, Space, Time 
+* Working on Microsoft stack.
+* Ready for open source contribution
+* Enthusiastic for Android development
+* Love to do UI design [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
 
 **Languages and Tools:**  
-
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 <code><img height="20" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>
@@ -27,7 +26,7 @@ Working on Microsoft stack, Android applications, and love to do UI designs in m
 
 <b>My Recent Blogs</b> 
 
-[![Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jaspreetsingh7&type=horizontal&limit=2)](https://medium.com/@jaspreetsingh7)
+[![Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jaspreetsingh7)](https://medium.com/@jaspreetsingh7)
 
 <b>Take a look at my repositories and please give [feedback](mailto:jaspreetsidhu3may@gmail.com) 🕵 </b>
 
