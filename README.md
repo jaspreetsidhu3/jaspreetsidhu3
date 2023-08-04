@@ -3,7 +3,7 @@
 * Working on Microsoft stack
 * Ready for open source contribution
 * Enthusiastic for Android development
-* Love to do UI design [Dribbble](https://dribbble.com/Jaspreet_Sidhu)
+* Love to do UI design [Behance](https://www.behance.net/codesnippet7)
 
 **Languages and Tools:**  
 
