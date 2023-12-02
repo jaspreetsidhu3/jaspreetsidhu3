@@ -1,9 +1,11 @@
 ## Hello there 👋
 
 * Working on Microsoft stack
-* Ready for open source contribution
+* Ready for open-source contribution
 * Enthusiastic for Android development
 * Love to do UI design [Behance](https://www.behance.net/codesnippet7)
+* Developing extensions for Microsoft Edge partner [To download](https://microsoftedge.microsoft.com/addons/search?developer=Codler)
+
 
 **Languages and Tools:**  
 
@@ -22,11 +24,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<b>My Recent Blogs</b> 
-
-[![Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jaspreetsingh7)](https://medium.com/@jaspreetsingh7)
-
-<b>Take a look at my repositories and please give [feedback](mailto:jaspreetsidhu3may@gmail.com) 🕵 </b>
+<b>Take a look at my [Portfolio!](https://jaspreetsidhu3.github.io/portfolio/#)  <b>
+<br>
+<b> [Contact me?](mailto:jaspreetsidhu3may@gmail.com) </b>
 
 
 ![](https://komarev.com/ghpvc/?username=jaspreetsidhu3&color=blue&label=Total+Visitors)
