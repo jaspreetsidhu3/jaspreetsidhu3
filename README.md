@@ -4,7 +4,7 @@
 * Ready for open-source contribution
 * Enthusiastic for Android development
 * Love to do UI design [Behance](https://www.behance.net/codesnippet7)
-* Developing extensions for Microsoft Edge partner [To download](https://microsoftedge.microsoft.com/addons/search?developer=Codler)
+* Developing extensions for Microsoft Edge partner: [select * from EdgeExtension where developer like 'Codler'](https://microsoftedge.microsoft.com/addons/search?developer=Codler)
 
 
 **Languages and Tools:**  
